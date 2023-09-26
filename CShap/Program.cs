@@ -18,7 +18,10 @@ namespace MyApp
 
             // 당신의 hp는 ?? 입니다.
 
-            string message = string.Format("당신의 HP는 {0}/{1}입니다.", hp, maxHp);
+            // string message = string.Format("당신의 HP는 {0}/{1}입니다.", hp, maxHp);
+            // Console.WriteLine(message);
+
+            string message = $"당신의 HP는 {hp} / {maxHp}입니다.";
             Console.WriteLine(message);
         }
     }

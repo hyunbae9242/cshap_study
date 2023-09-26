@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/minthb/cshap/CShap/CShap/CShap.csproj",
+      "projectUniqueName": "/Users/minthb/cshap/cshap_study/CShap/CShap.csproj",
       "projectName": "CShap",
-      "projectPath": "/Users/minthb/cshap/CShap/CShap/CShap.csproj",
+      "projectPath": "/Users/minthb/cshap/cshap_study/CShap/CShap.csproj",
       "packagesPath": "/Users/minthb/.nuget/packages/",
-      "outputPath": "/Users/minthb/cshap/CShap/CShap/obj/",
+      "outputPath": "/Users/minthb/cshap/cshap_study/CShap/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/minthb/.nuget/NuGet/NuGet.Config"
