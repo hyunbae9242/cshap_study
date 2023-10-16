@@ -11,13 +11,13 @@ namespace MyApp
         //     }
         //     return result;
         // }
-        static int Fac(int n){
-            return n == 1 ? 1 : n *  Fac(n - 1);
-        }
-        static void Main(String[] args){
-            int ret = Fac(5);
-            Console.WriteLine(ret);
-        }
+        // static int Fac(int n){
+        //     return n == 1 ? 1 : n *  Fac(n - 1);
+        // }
+        // static void Main(String[] args){
+        //     int ret = Fac(5);
+        //     Console.WriteLine(ret);
+        // }
     }
 }
 
